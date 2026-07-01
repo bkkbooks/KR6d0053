@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0053/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀音經義疏記會本科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0643.xml
+    old_id: X35n0643
+hash: sha256:4eb94ba0df883591b55f12dd4e9e7e81cfe8c2c6a0df122c121b3c337fbb42cd
