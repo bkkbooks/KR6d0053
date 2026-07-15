@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0053/v1
 canonical_location: https://kanripo.org/bkk/KR6d0053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀音經義疏記會本科
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0053_000.yaml, hash: 'sha256:4eb94ba0df883591b55f12dd4e9e7e81cfe8c2c6a0df122c121b3c337fbb42cd'}
-  - {seq: 1, filename: KR6d0053_001.yaml, hash: 'sha256:ed82581469cea281a9512ce63e1dc4339e88439fddcdc4ec6acf95a89e000a5e'}
+  - {seq: 1, filename: KR6d0053_001.yaml, hash: 'sha256:6352c0be89c94513f3ebe0344aa76799b6f785201490ab18f33d36b55bc4c31e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0053_000.markers.yaml, hash: 'sha256:f79ccaab2584f988359718228edc9a941a7154afbbea0959a112c35297456d9f'}
-  - {seq: 1, role: markers, filename: assets/KR6d0053_001.markers.yaml, hash: 'sha256:84825e54f5a3250308540e209b8ff2fc689a246a6a1d2b2a7378a8f0386d1879'}
+  - {seq: 1, role: markers, filename: assets/KR6d0053_001.markers.yaml, hash: 'sha256:fceadcdcf360e3dd5ac9254b0b8665ba0b04abc051520b250889c2981ba1e123'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: 第四卷科
   type: mulu
   level: 1
-hash: sha256:aa36a5fe6f27d50d681868ab228a35c1646045a35e39cdd0b0b390d6ab4ecad0
+hash: sha256:ff6a7405636022b29171ab2c5d16bad9511ec607da22b5e44b4c2df4c8f1589c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
